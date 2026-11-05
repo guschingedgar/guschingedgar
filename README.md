@@ -1,24 +1,20 @@
-### Hi, I'm Edgar
+### Hi, I'm Edgar 👋
 
-I'm a third-year student in AI and Data Management (BSc AIDAMS) at ESSEC Business School × CentraleSupélec. I build AI agents and automations that do real work, and I lead the consulting team at UTOPIA ESSEC, a student agency that builds AI automations for companies. Before that, I was an intern at Merck, working on data pipelines and GPT tools on Palantir Foundry.
+AI & Data student at **ESSEC Business School × CentraleSupélec** (BSc AIDAMS, 3rd year). I build AI agents that do real work, and I lead the consulting team at **UTOPIA ESSEC**, a student agency that builds AI automations for companies.
 
-**Looking for a summer 2027 internship in AI, in France, Switzerland or the US.**
+- 🤖 **[UTOPIA AI Concierge](https://github.com/guschingedgar/utopia-ai-concierge)**: Telegram agent that runs an agency's admin: client quotes, pre-call research briefs, CRM updates, email and calendar, by text or voice
+- 🕸️ **[Event-Market Graph](https://github.com/guschingedgar/graphdb-event-market)**: Neo4j graph + LangGraph agent explaining market moves with geopolitical events. I built the API and agent: right tool on 10/10 test questions, 5/5 unsafe prompts blocked
+- 🌍 **[Stranded Assets](https://github.com/guschingedgar/stranded-assets-climate-risk)**: led a 6-person project on climate scenarios: 1,665 GW of coal would retire early under Net Zero 2050, 92% of it in Asia
+- 🍳 **Meal Prep Assistant**: plan a week of meals on a budget, then cook it with a Telegram bot. 7 n8n workflows, Groq and Spoonacular · [live app](https://meal-prep-intake-1.vercel.app)
+- 📝 **[Lecture Notes Pipeline](https://github.com/guschingedgar/lecture-notes-pipeline)**: Claude Code skill that turns a recorded lecture into a two-page LaTeX revision sheet for my classmates
+- 🧠 **[Emoji Classification](https://github.com/guschingedgar/emoji-classification-cv)**: CNN from scratch, 94.9% on the class Kaggle competition
 
-### Projects
+💼 Previously: intern at **Merck**, building data pipelines and GPT tools on Palantir Foundry and AIP.
 
-| Project | What it is | Built with |
-|---|---|---|
-| [UTOPIA AI Concierge](https://github.com/guschingedgar/utopia-ai-concierge) | Telegram agent that writes client quotes, researches leads before sales calls and manages the CRM, email and calendar | Python, Claude API, Airtable |
-| [Event-Market Graph](https://github.com/guschingedgar/graphdb-event-market) | Neo4j graph of geopolitical events and market moves, with an AI agent that explains moves with guardrails (I built the API and agent) | FastAPI, LangGraph, Neo4j |
-| [Stranded Assets](https://github.com/guschingedgar/stranded-assets-climate-risk) | How much coal and gas capacity would retire early under climate scenarios, and where (I led this group project) | Python, pandas, statsmodels |
-| [TutorIN](https://github.com/guschingedgar/tutorin) | Peer-tutoring platform for ESSEC students, built in a 3-day innovation challenge (I led the business side) | Next.js, Supabase |
-| [Lecture Notes Pipeline](https://github.com/guschingedgar/lecture-notes-pipeline) | Claude Code skill that turns a recorded lecture into a two-page LaTeX revision sheet | Claude Code, MCP, LaTeX |
-| [Emoji Classification](https://github.com/guschingedgar/emoji-classification-cv) | CNN that recognises which company drew an emoji, 94.9% on Kaggle (I wrote the metrics analysis) | PyTorch |
+🌎 Lived in San Francisco from 2021 to 2024.
 
-### Tools I use most
+🎯 **Looking for a summer 2027 internship in AI**, in France, Switzerland or the US.
 
-Python · TypeScript · SQL · Claude API and agents (LangGraph, MCP) · n8n · pandas and scikit-learn · Neo4j · Supabase
+**Stack:** Python · TypeScript · Claude API · LangGraph · MCP · n8n · FastAPI · Neo4j · pandas · scikit-learn · PyTorch · Supabase
 
-### Contact
-
-[guschingedgar@gmail.com](mailto:guschingedgar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/edgar-gusching/)
+📫 [LinkedIn](https://www.linkedin.com/in/edgar-gusching/) · [guschingedgar@gmail.com](mailto:guschingedgar@gmail.com)

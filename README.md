@@ -1,6 +1,6 @@
-### Hi, I'm Edgar 👋
+## Edgar Gusching
 
-AI & Data student at **ESSEC Business School × CentraleSupélec** (BSc AIDAMS, 3rd year). I build AI agents that do real work, and I lead the consulting team at **UTOPIA ESSEC**, a student agency that builds AI automations for companies.
+AI & Data student at **ESSEC × CentraleSupélec** (BSc AIDAMS, 3rd year). I build AI agents that do real work, and I lead the consulting team at **UTOPIA ESSEC**, a student AI-automation agency.
 
 - 🤖 **[UTOPIA AI Concierge](https://github.com/guschingedgar/utopia-ai-concierge)**: Telegram agent that runs an agency's admin: client quotes, pre-call research briefs, CRM updates, email and calendar, by text or voice
 - 🕸️ **[Event-Market Graph](https://github.com/guschingedgar/graphdb-event-market)**: Neo4j graph + LangGraph agent explaining market moves with geopolitical events. I built the API and agent: right tool on 10/10 test questions, 5/5 unsafe prompts blocked
